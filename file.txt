@@ -1,0 +1,31 @@
+1.80 2.70 18.00
+1.95 3.00 21.95
+2.10 3.55 24.15
+2.30 3.95 28.75
+MAQUINA
+campanha
+*****
+LOJA
+s_joao
+Ocasional
+Z2
+1.95
+unico
+Ocasional
+Z4
+3.95
+diario
+Assinatura
+Z3
+24.15
+normal
+Antonio_Mendes
+Assinatura
+Z4
+28.1
+estudante
+Rui_Reis
+15
+8149134141
+Secundaria_Antonio_Vasconcelos
+*****
